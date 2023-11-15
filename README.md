@@ -1,1 +1,1 @@
-# roc-k-paer-sciccors-game
+# rock-paper-sciccors-game
